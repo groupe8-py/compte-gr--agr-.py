@@ -10,7 +10,6 @@ Def._str_(self):
 Return "solde  disponible {0}".format(self.solde)
     #Methode d'affichage du solde qui sera
 Utiliser après avoir fait un versement ou un retrait
-
 Def infoSolde()
  Print("virement de {0} FCFA effectué
 !". format (mt))
